@@ -1,0 +1,19 @@
+h1,
+h2,
+h3,
+p,
+body,
+div,
+section,
+img,
+button,
+ol,
+ul,
+li,
+a,
+label,
+input,
+select {
+  margin: 0;
+  padding: 0;
+}
