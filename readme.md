@@ -1,3 +1,5 @@
 Readme test text.
 
-Sunrise Farm Woodworking Website - inspiration gathered visually into Google Jamboard.
+2.3.2021 - Sunrise Farm Woodworking Website - inspiration gathered visually into Google Jamboard. Project file created in Google Jamboard.
+
+Need to research -- can I add images into a readme file to show visual work?
